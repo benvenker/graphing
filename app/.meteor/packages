@@ -6,3 +6,6 @@
 standard-app-packages
 autopublish
 insecure
+external-file-loader
+d3
+
